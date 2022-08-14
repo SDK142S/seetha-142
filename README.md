@@ -33,7 +33,7 @@
     <a href="https://github.com/search?q=user%3Aseetha-142+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aseetha-142+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aseetha-142+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aseetha-142+language%3Asql"><img alt="Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg)logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Aseetha-142+language%3Asql"><img alt="Python" src="https://img.shields.io/badge/python-007396.svg?logo=python&logoColor=blue"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
