@@ -1,10 +1,10 @@
 <h3 align="center">
   𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓢𝓮𝓮𝓽𝓱𝓪'𝓼 𝓹𝓻𝓸𝓯𝓲𝓵𝓮!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">
 </h3>
 <!-- Typing SVG by seetha-142 - https://github.com/seetha-142/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/seetha-142/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/seetha-142/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝐒𝐭𝐮𝐝𝐞𝐧𝐭;𝐒𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭%20𝐓𝐞𝐜𝐡𝐢𝐞;𝐀𝐥𝐰𝐚𝐲𝐬%20𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠%20𝐍𝐞𝐰%20𝐭𝐡𝐢𝐧𝐠𝐬&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <br/>
 <p align="center">
