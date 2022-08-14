@@ -4,7 +4,7 @@
 </h3>
 <!-- Typing SVG by seetha-142 - https://github.com/seetha-142/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/seetha-142/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝐒𝐭𝐮𝐝𝐞𝐧𝐭;𝐒𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭%20𝐓𝐞𝐜𝐡𝐢𝐞;𝐀𝐥𝐰𝐚𝐲𝐬%20𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠%20𝐍𝐞𝐰%20𝐭𝐡𝐢𝐧𝐠𝐬&center=true&width=440&height=45&color=#7FFFD4&vCenter=true&size=22"></a>
+  <a href="https://github.com/seetha-142/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝐒𝐭𝐮𝐝𝐞𝐧𝐭;𝐒𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭%20𝐓𝐞𝐜𝐡𝐢𝐞;𝐀𝐥𝐰𝐚𝐲𝐬%20𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠%20𝐍𝐞𝐰%20𝐭𝐡𝐢𝐧𝐠𝐬&center=true&width=440&height=45&color=#C34A2C&vCenter=true&size=22"></a>
 </p>
 <br/>
 <p align="center">
